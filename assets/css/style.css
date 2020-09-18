@@ -1,0 +1,102 @@
+#home {
+	background: url(http://localhost/kmikaktusdua/gambar/Home5.png) no-repeat center center fixed;
+	/* background-image: url('http://localhost/kmikaktusdua/assets/assets/img/home.png'); */
+	display: table;
+	height: 650px;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	color: #fff;
+	/* background-color: teal; */
+	/* background-image: linear-gradient(to right, #af8759 , #af8759, #af8759); */
+	min-height: 590px;
+	max-height: 630px;
+}
+
+#landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#txt-satu {
+	font-size: 82px !important;
+}
+.bg{
+	background-color: #DEB887;
+}
+.MainPage {
+	background-color: #fff;
+	min-height: 250px;
+}
+
+.float {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 40px;
+	left: 27px;
+	background-color: #25d366;
+	color: #FFF;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 39px;
+	/* box-shadow: 2px 2px 3px #888; */
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+	z-index: 100;
+}
+
+.float-ig {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 118px;
+	left: 27px;
+	/* background-color:#25d366; */
+	background-image: linear-gradient(to bottom right, #fb3958, #ffc838, #6dc993, #458eff);
+	color: #FFF;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 39px;
+	/* box-shadow: 2px 2px 3px #888; */
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+	z-index: 100;
+}
+
+#card-satu {
+	background: url(http://localhost/kmikaktus/assets/img/cactus_k02.jpg);
+}
+#card-article {
+	background: url(http://localhost/kmikaktus/assets/img/cactus_k02.jpg);
+	height: 300px;
+	
+}
+#artikel {
+	text-align: justify;
+	font-size: 20px;
+	
+}
+#batas{
+	margin-bottom: 2px;
+}
+#card-article-text{
+	text-transform: uppercase;
+	position: absolute;
+	bottom: 10px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#datadiri1 {
+	background-color: #36B07F;
+	border-radius: 25px;
+	padding: 4px;
+	/* width: 40%; */
+}
+
+#datadiri2 {
+	background-color: #36B07f;
+	border-radius: 25px;
+	padding: 4px;
+	/* width: 40%; */
+}
